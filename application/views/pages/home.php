@@ -1,0 +1,223 @@
+<script src="http://bxslider.com/sites/default/files/jquery.bxSlider.min.js" type="text/javascript"></script>
+
+<script>
+          $(function(){
+            $('#slider1').bxSlider({
+              auto: false,
+              pager: false,
+              pause: 6000
+            });
+            });
+          </script>
+
+<div class="hero-unit">
+  <div class="row">
+    <ul id="slider1">
+
+      <li>
+        <div class="row">
+          <div class="five columns">
+            <div class="hero-item">
+              <div class="above-image-title">AY 2012/2013</div>
+              <a href="http://echelon.e27.co/sg2013/"><img src="<?php echo base_url() ?>assets/postData/echelon/echelon2013.png"></a>
+              
+              <p><i>4-5 June 2013 @ Singapore Expo Hall</i>
+                <br/>
+                Echelon 2013 is Asia's premier technology and business event that is attended by the region's top investors, experienced entrepreneurs and brightest startups. Organized by <a href="http://e27.co">e27</a>, NES's media partner.
+                <br />
+                <b><a href="http://echelon.e27.co/sg2013/">Visit Echelon Official Website</a></b> 
+              </p>
+            </div>
+          </div>
+          <div class="seven columns">
+            <img class="hero-image" src="<?php echo base_url() ?>assets/postData/echelon/banner.png"/>
+          </div>
+        </div>
+      </li>
+            <li>
+        <div class="row">
+          <div class="five columns">
+            <div class="hero-item">
+              <div class="above-image-title">AY 2012/2013</div>
+              <a href="http://echelon.e27.co/sg2013/"><img src="<?php echo base_url() ?>assets/postData/echelon/echelon2013.png"></a>
+              
+              <p><i>4-5 June 2013 @ Singapore Expo Hall</i>
+                <br/>
+                Echelon 2013 is Asia's premier technology and business event that is attended by the region's top investors, experienced entrepreneurs and brightest startups. Organized by <a href="http://e27.co">e27</a>, NES's media partner.
+                <br />
+                <b><a href="http://echelon.e27.co/sg2013/">Visit Echelon Official Website</a></b> 
+              </p>
+            </div>
+          </div>
+          <div class="seven columns">
+            <img class="hero-image" src="<?php echo base_url() ?>assets/postData/echelon/banner.png"/>
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+<!-- thre columns content-->
+<div class="content-wrapper">
+  <div class="row">
+    <div class="four columns   ">
+      <h4>Upcoming Events</h4>
+      <div class="row">
+        <div class="three columns">
+          <div class="date">
+            <div class="day">4-5</div>
+            <div class="month">JUN</div>
+          </div>
+        </div>
+        <div class="nine columns">
+          <p>
+            <b>Echelon 2013</a></b>
+            <br/>
+            e27‘s flagship conference<br/>
+            @Singapore Expo Hall<br/>
+            <a href="http://echelon.e27.co/sg2013/">More information</a>
+          </p>
+        </div>
+      </div>
+      <hr>
+      <a href="events.html">See all events</a>
+    </div>
+    <div class="four columns">
+      <h4>What can we do for you?</h4>
+      <b>Want to start a company but don't know where to start?</b>
+      <br/>
+      <br/>
+      We organize
+      <a href="events">events</a>
+      to inspire the entrepreneur in you!
+      <br/>
+      <br/>
+      <b>Looking for a co-founder or funding?</b>
+      <br/>
+      <br/>
+      <a href="core">NES LINK and Sponsorship</a>
+      can help you.
+      <br/>
+      <br/>
+      <b>Looking for international entreprenerial exposure?</b>
+      <br/>
+      <br/>
+      These
+      <a href="global_project">global projects</a>
+      will definitely vet your interest.
+      <br/>
+      <br/>
+      <b>Interested to join NES?</b>
+      <br/>
+      <br/>
+      <a href="events/recruitment2012">Apply now to be in the Main Committee member!</a>
+      <hr></div>
+    <div class="four columns">
+
+      <div class="boxnewsletter">
+        <div class="newsletter-title">
+          <h4>
+            Join NES as Ordinary Member for $12 to enjoy exclusive invites and privileges!
+          </h4>
+        </div>
+
+        <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+        <input type="hidden" name="cmd" value="_s-xclick">
+        <input type="hidden" name="hosted_button_id" value="6KTWTPWBGPA92">
+        <input type="hidden" name="on0" value="Full Name"><label class="desc" id="title1" for="Field1">Full Name</label>
+        <input type="text" name="os0" maxlength="200">
+        <input type="hidden" name="on1" value="Matriculation No./Student ID"><label class="desc" id="title2" for="Field2">Matriculation No./Student ID</label>
+        <input type="text" name="os1" maxlength="200">
+        <input type="image" src="http://us.i1.yimg.com/us.yimg.com/i/us/smallbiz/gr/paypal_x_click_but06_enabled.gif" border="0" name="submit" alt="PayPal — The safer, easier way to pay online.">
+        <img alt="" border="0" src="https://www.paypalobjects.com/en_GB/i/scr/pixel.gif" width="1" height="1" style="">
+        </form>
+
+      <!-- <form id="form2" name="form2" class="wufoo topLabel page" autocomplete="off" enctype="multipart/form-data" method="post" novalidate
+action="https://pookveeraya.wufoo.com/forms/m7x3q1/#public">
+        <div class="newsletter-title">
+          <h4>
+            Get the news! Suscribe
+            <br/>
+            to our newsletter here!
+          </h4>
+        </div>
+
+        <ul class="no-bullet">
+
+          <li id="foli1" class="notranslate nameField     ">
+            <label class="desc" id="title1" for="Field1">Name</label>
+            <div>
+              <input id="Field1" name="Field1" type="text" class="field text medium" value="" maxlength="271" tabindex="1" onkeyup="" />
+            </div>
+          </li>
+          <li id="foli2" class="notranslate emailField     ">
+            <label class="desc" id="title2" for="Field2">Email</label>
+            <div>
+              <input id="Field2" name="Field2" type="email" spellcheck="false" class="field text medium" value="" maxlength="271" tabindex="2" />
+            </div>
+          </li>
+          <li class="buttons ">
+            <div>
+
+              <input id="saveForm" name="saveForm" class="btTxt submit" 
+    type="submit" value="Submit"
+ />
+            </div>
+          </li>
+
+          <li class="hide">
+            <label for="comment">Do Not Fill This Out</label>
+            <textarea name="comment" id="comment" rows="1" cols="1"></textarea>
+            <input type="hidden" id="idstamp" name="idstamp" value="VhHVUcthSiKfCMFMm8XXk7JzRG8PgJPjchJ73DgTorQ=" />
+          </li>
+        </ul>
+      </form> -->
+    </div>
+  </div>
+</div>
+
+<br/>
+<br/>
+<br/>
+<!-- one column stakeholder -->
+<div class="row">
+  <div class="six columns">
+  <h4>Media partner</h4><br/>
+    <a href="http://www.e27.co/">
+      <img class="stakeholder" src="<?php echo base_url() ?>assets/images/stakeholder/e27.png"/>
+    </a>
+  </div>
+  <div class="six columns">
+    <h4>Official printing sponsor</h4>
+    <a href="http://www.imperiotrading.com/" >
+      <img src="<?php echo base_url() ?>assets/images/stakeholder/imperio.png"/>
+    </a>
+  </div>
+</div>
+
+<div class="row">
+  <div class="twelve columns">
+    <h4>Stakeholders</h4><br/>
+    <a href="http://www.nusentrepreneurshipcentre.sg/">
+    <img class="stakeholder" src="<?php echo base_url() ?>assets/images/stakeholder/nec logo.png"/>
+  </a>
+    <a href="http://sgentrepreneurs.com/">
+    <img class="stakeholder" src="<?php echo base_url() ?>assets/images/stakeholder/sgentrepreneurs.png"/>
+  </a>
+    <a href="http://www.soe.org.sg/">
+    <img class="stakeholder-portrait" src="<?php echo base_url() ?>assets/images/stakeholder/soe.png"/>
+  </a>
+    <a href="http://smba.com.sg/">
+      <img class="stakeholder-portrait" src="<?php echo base_url() ?>assets/images/stakeholder/smba.png"/>
+    </a>
+    <a href="http://www.safra.sg/page.aspx?pageid=686">
+    <img class="stakeholder" src="<?php echo base_url() ?>assets/images/stakeholder/safra.png"/>
+  </a>
+    <a href="http://www.garag3.com/">
+    <img class="stakeholder" src="<?php echo base_url() ?>assets/images/stakeholder/garag3.png"/>
+  </a>
+  </div>
+
+</div>
+</div>
