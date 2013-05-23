@@ -1,0 +1,93 @@
+<div class="content-wrapper">
+          <div class="row">
+
+            <div class="twelve columns">
+              <hgroup>
+              <h1>Our Stakeholders</h1>
+              <h2>We owe it to them.</h2>
+            </hgroup>
+              <h3>
+                NUS Entrepreneurship Centre (NEC) (A Division of NUS Enterprise)
+              </h3>
+              <div class="row">
+                <div class="three columns">
+                  <img src="<?php echo base_url() ?>assets/images/stakeholder/nec.gif" class="left"/>
+                </div>
+                <div class="nine columns">
+                  <p>
+                    One of the three central pillars of NUS Enterprise, NUS Entrepreneurship Centre (NEC) is responsible for NUS Enterprise’s drive to provide opportunities for experiential learning of entrepreneurship within the NUS community. NEC’s mission is to promote and support entrepreneurial learning within the NUS community, nurture startups by NUS professors, students and alumni, and conduct research to advance knowledge in the policy and practice of technology venturing in Singapore and beyond.
+                  </p>
+                  <p>
+                    NEC’s activities are organised into four key areas:
+Experiential Education, Entrepreneurship Development, NUS Enterprise Incubator and Entrepreneurship & Innovation Research
+                  </p>
+                </div>
+              </div>
+<hr>
+              <h3>SBMA</h3>
+              <div class="row">
+                <div class="three columns">
+                  <img src="<?php echo base_url() ?>assets/images/stakeholder/smba.png" class="left"/>
+                </div>
+                <div class="nine columns">
+                  <p>
+                    In conjunction with the national drive to promote entrepreneurship, SMBA was formed as a flagship initiative by a team of local business men & women operating SMEs spanning across diverse industries and disciplines. The core focus of this organization is to recognize excellent business practices amongst the local SMEs and to further greater innovation, achieve higher industrial service levels and promote uncompromising business ethics. 
+                  </p>
+
+                </div>
+              </div>
+<hr>
+              <h3>Garag3</h3>
+              <div class="row">
+                <div class="three columns">
+                  <img src="<?php echo base_url() ?>assets/images/stakeholder/garag3.png" class="left"/>
+                </div>
+                <div class="nine columns">
+                  <p>
+                    Garag3 is a tech-based incubator located in the midst of the NUS Entrepreneurship Community. Created by the NUS Entrepreneurship Centre and managed by e27, Garag3 hopes to help budding entrepreneurs take the next leap forward in their entrepreneurial journey.
+                  </p>
+
+                </div>
+              </div>
+<hr>
+              <h3>SGEntrepreneurs</h3>
+              <div class="row">
+                <div class="three columns">
+                  <img src="<?php echo base_url() ?>assets/images/stakeholder/sgentrepreneurs.png" class="left"/>
+                </div>
+                <div class="nine columns">
+                  <p>
+                    SGE serves as an online ecosystem where fellow entrepreneurs, investors & venture capitalists, technologists, developers and business plan competition organizers discuss their experiences on entrepreneurship and enterprise in Singapore.
+                  </p>
+
+                </div>
+              </div>
+<hr>
+              <h3>Spirit of Enterprise</h3>
+              <div class="row">
+                <div class="three columns">
+                  <img src="<?php echo base_url() ?>assets/images/stakeholder/soe.png" class="left"/>
+                </div>
+                <div class="nine columns">
+                  <p>
+                    Spirit of Enterprise(SOE) promotes and advances entrepreneurial spirit in Singapore by honouring local self-reliant entrepreneurs operating small and medium size businesses.SOE also serves to inspire Singaporeans, especially the young to become entrepreneurs by facilitating interaction, communication and knowledge dissemination between students, the entrepreneurs and the general public.
+                  </p>
+                </div>
+              </div>
+<hr>
+              <h3>Safra Youth Network</h3>
+              <div class="row">
+                <div class="three columns">
+                  <img src="<?php echo base_url() ?>assets/images/stakeholder/safra.png" class="left"/>
+                </div>
+                <div class="nine columns">
+                  <p>
+                    The SAFRA Youth Network represents the voice of young SAFRA members aged 18-35 years and is managed by a committee of passionate volunteers, from all walks of life, handpicked to offer diverse and wide-ranging points of views from different perspectives to communicate the needs of today’s younger generation.
+
+SAFRA Youth Network, through its extensive partnerships with Institutes of Higher Learnings, Polytechnics, and other Youth organisations in Singapore have been influencing the creation and launch of various programs and events specially catered to young the young active NS man and his friends enriching the lives of many young NSmen and will continue to do so.
+                  </p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>

@@ -34,26 +34,6 @@
           </div>
         </div>
       </li>
-            <li>
-        <div class="row">
-          <div class="five columns">
-            <div class="hero-item">
-              <div class="above-image-title">AY 2012/2013</div>
-              <a href="http://echelon.e27.co/sg2013/"><img src="<?php echo base_url() ?>assets/postData/echelon/echelon2013.png"></a>
-              
-              <p><i>4-5 June 2013 @ Singapore Expo Hall</i>
-                <br/>
-                Echelon 2013 is Asia's premier technology and business event that is attended by the region's top investors, experienced entrepreneurs and brightest startups. Organized by <a href="http://e27.co">e27</a>, NES's media partner.
-                <br />
-                <b><a href="http://echelon.e27.co/sg2013/">Visit Echelon Official Website</a></b> 
-              </p>
-            </div>
-          </div>
-          <div class="seven columns">
-            <img class="hero-image" src="<?php echo base_url() ?>assets/postData/echelon/banner.png"/>
-          </div>
-        </div>
-      </li>
     </ul>
   </div>
 </div>
