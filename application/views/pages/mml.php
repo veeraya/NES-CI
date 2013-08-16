@@ -41,6 +41,7 @@
 
       </div>
       <div class="four columns">
+        <div class="fb-like-box" data-href="https://www.facebook.com/maalumaalulanka" data-width="292" data-show-faces="true" data-stream="true" data-header="false"></div><br/><br/>
         <a href="<?php echo base_url() ?>assets/images/mml2big.jpg"><img src="<?php echo base_url() ?>assets/images/mml2small.jpg" class="image-border"/></a><br/><br/><br/>
         <a href="<?php echo base_url() ?>assets/images/mml3big.jpg"><img src="<?php echo base_url() ?>assets/images/mml3small.jpg" class="image-border"/></a><br/><br/><br/>
         <a href="<?php echo base_url() ?>assets/images/mml1big.jpg"><img src="<?php echo base_url() ?>assets/images/mml1small.jpg" class="image-border"/></a>
