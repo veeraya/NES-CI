@@ -91,7 +91,7 @@
               <a href="<?php echo base_url() ?>index.php/isage">ISAGE</a>
             </li>
             <li>
-              <a href="<?php echo base_url() ?>index.php/mml">MML</a>
+              <a href="<?php echo base_url() ?>index.php/mml">Maalu Maalu Lanka</a>
             </li>
           </ul>
         </li>
