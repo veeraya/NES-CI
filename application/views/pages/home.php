@@ -52,9 +52,9 @@
         </div>
         <div class="nine columns">
           <p>
-            <b>Echelon 2013</a></b>
+            <b>Echelon 2013</b>
             <br/>
-            e27‘s flagship conference<br/>
+            e27's flagship conference<br/>
             @Singapore Expo Hall<br/>
             <a href="http://echelon.e27.co/sg2013/">More information</a>
           </p>

@@ -41,7 +41,7 @@
 
       </div>
       <div class="four columns">
-        <a href="<?php echo base_url() ?>assets/images/mml2big.JPG"><img src="<?php echo base_url() ?>assets/images/mml2small.JPG" class="image-border"/></a><br/><br/><br/>
+        <a href="<?php echo base_url() ?>assets/images/mml2big.jpg"><img src="<?php echo base_url() ?>assets/images/mml2small.jpg" class="image-border"/></a><br/><br/><br/>
         <a href="<?php echo base_url() ?>assets/images/mml3big.jpg"><img src="<?php echo base_url() ?>assets/images/mml3small.jpg" class="image-border"/></a><br/><br/><br/>
         <a href="<?php echo base_url() ?>assets/images/mml1big.jpg"><img src="<?php echo base_url() ?>assets/images/mml1small.jpg" class="image-border"/></a>
       </div>

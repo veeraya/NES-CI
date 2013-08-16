@@ -12,7 +12,7 @@
       <div class="eight columns">
         <img src="<?php echo base_url() ?>assets/images/aseanpreneur.png" class="right"/>
         <p>
-          <b>Expand Your Market – Connect with Youths and Incubators across South East Asia</b><br/>
+          <b>Expand Your Market - Connect with Youths and Incubators across South East Asia</b><br/>
           <i>It is never too early to get started. If you are interested in entrepreneurship, <b>THIS</b> is the place
           to start.</i>
         </p>
@@ -27,32 +27,32 @@
           <b>What You Get</b><br/>
           What sets us apart is our true ground---up start-up styled culture. AP is your start-up, with
           a brand to build. We relish multiple tries, multiple failures, and eventual huge success.
-          No red---tape, no bureaucracy, just some really great work. If you’re interested in eventually
-          Starting up then you’d be considering expansion beyond Singapore. At AP, you get to build
+          No red---tape, no bureaucracy, just some really great work. If you're interested in eventually
+          Starting up then you'd be considering expansion beyond Singapore. At AP, you get to build
           connections in the closest regions to Singapore, and even work on projects with <b>over 4000
-          like---minded active university students. Plus, you’ll be working closely on region---wide projects
+          like---minded active university students. Plus, you'll be working closely on region---wide projects
           with a handpicked international team thoroughly screened over two and a half months.</b> The
-          learning curve is amazing – Discuss plans of collaboration with business leaders, get a free reign
+          learning curve is amazing - Discuss plans of collaboration with business leaders, get a free reign
           on reshaping the online brand from scratch, and organize and take part in regional programmes.
           Even visit Europe with fellow Global Projects members!
         </p>
 
         <p>
-          <b>What We’re Planning Ahead</b><br/>
+          <b>What We're Planning Ahead</b><br/>
           This year AP is set to grow massively with the <b>opening of international country chapters in
           Indonesia and the Philippines</b> that supplement the functioning of its Singapore counterpart by
           hosting local initiatives in their host countries. This increases our visibility and impact many
-          fold. We’re simultaneously <b>expanding our connections with top business houses</b> like Autodesk
+          fold. We're simultaneously <b>expanding our connections with top business houses</b> like Autodesk
           and with regional incubators to make events like the ASEANpreneurs Idea Canvas bigger and
           more impactful. The one little biggie (yeah we deal with oxymorons) in our plate for next year is
           <b>ASEAN---wide internships with start-ups.</b> ASEANpreneurs is poised perfectly to screen and match
-          the highest quality of interns across the region with the most exciting of start- -ups. That’s our
-          pet project for the incoming recruits, on top of AYLE, AIC and the country chapters. It’s a big
+          the highest quality of interns across the region with the most exciting of start- -ups. That's our
+          pet project for the incoming recruits, on top of AYLE, AIC and the country chapters. It's a big
           year ahead, and a very exciting time to join.
         </p>
 
         <p>
-          <b>To join this amazing team and the awesome work we do:</b> Do visit our site at <a href="http://www.aseanpreneurs.org">www.aseanpreneurs.org</a> to find out more, or send us your queries and feedback at aseanpreneurs@nes.org.sg. We’d love to hear from you! <br/><br/>
+          <b>To join this amazing team and the awesome work we do:</b> Do visit our site at <a href="http://www.aseanpreneurs.org">www.aseanpreneurs.org</a> to find out more, or send us your queries and feedback at aseanpreneurs@nes.org.sg. We'd love to hear from you! <br/><br/>
           ASEANpreneurs, <br/>
           NUS Entrepreneurship Society (NES), <br/>
            14A Prince George's Park, Singapore 118412 <br/> 
