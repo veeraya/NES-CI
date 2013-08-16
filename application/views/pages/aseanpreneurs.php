@@ -10,7 +10,7 @@
     </div>
     <div class="row">
       <div class="eight columns">
-        <img src="assets/aseanpreneur.png" class="right"/>
+        <img src="<?php echo base_url() ?>assets/images/aseanpreneur.png" class="right"/>
         <p>
           <b>Expand Your Market – Connect with Youths and Incubators across South East Asia</b><br/>
           <i>It is never too early to get started. If you are interested in entrepreneurship, <b>THIS</b> is the place
@@ -59,15 +59,15 @@
           Email: aseanpreneurs@nes.org.sg | Website: <a href="http://www.aseanpreneurs.org">www.aseanpreneurs.org</a> <br/> 
         </p>
         <div class="slideshow">
-        <script async class="speakerdeck-embed" data-id="502d05dd3191ce0002037949" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/embed.js"></script>
+        <script async class="speakerdeck-embed" data-id="502d05dd3191ce0002037949" data-ratio="1.3333333333333333" src="//speakerdeck.com/assets/images/embed.js"></script>
       </div>
 
       </div>
       <div class="four columns">
         <div class="fb-like-box" data-href="http://www.facebook.com/aseanpreneurs" data-width="292" data-show-faces="true" data-stream="true" data-header="false"></div><br/><br/>
-        <a href="<?php echo base_url() ?>assets/ap1big.jpg"><img src="<?php echo base_url() ?>assets/ap1small.jpg" class="image-border"/></a><br/><br/><br/>
-        <a href="<?php echo base_url() ?>assets/ap2big.JPG"><img src="<?php echo base_url() ?>assets/ap2small.JPG" class="image-border"/></a><br/><br/><br/>
-        <a href="<?php echo base_url() ?>assets/ap3big.jpg"><img src="<?php echo base_url() ?>assets/ap3small.jpg" class="image-border"/></a>
+        <a href="<?php echo base_url() ?>assets/images/ap1big.jpg"><img src="<?php echo base_url() ?>assets/images/ap1small.jpg" class="image-border"/></a><br/><br/><br/>
+        <a href="<?php echo base_url() ?>assets/images/ap2big.JPG"><img src="<?php echo base_url() ?>assets/images/ap2small.JPG" class="image-border"/></a><br/><br/><br/>
+        <a href="<?php echo base_url() ?>assets/images/ap3big.jpg"><img src="<?php echo base_url() ?>assets/images/ap3small.jpg" class="image-border"/></a>
       </div>
     </div>
 </div>
